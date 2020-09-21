@@ -1,10 +1,10 @@
-# LinearRegressionExercise
-# 실행결과입니다.
-# /Users/choegyuhyeon/PycharmProjects/LinearRegression/venv/bin/python /Users/choegyuhyeon/PycharmProjects/LinearRegression/LinearRegression.py
-# 학습된 theta값
-# [ 0.06878498  0.01574574  0.21474388  0.16165466  0.07761086  0.06370373
-#  -0.14455116  0.15759613  0.20720319  0.14003904]
-# Design Matrix의 pandas 데이터 프레임
+''' LinearRegressionExercise
+ 실행결과입니다.
+ /Users/choegyuhyeon/PycharmProjects/LinearRegression/venv/bin/python /Users/choegyuhyeon/PycharmProjects/LinearRegression/LinearRegression.py
+ 학습된 theta값
+ [ 0.06878498  0.01574574  0.21474388  0.16165466  0.07761086  0.06370373
+  -0.14455116  0.15759613  0.20720319  0.14003904]
+ Design Matrix의 pandas 데이터 프레임
           age       sex       bmi  ...        s4        s5        s6
 0    0.038076  0.050680  0.061696  ... -0.002592  0.019908 -0.017646
 1   -0.001882 -0.044642 -0.051474  ... -0.039493 -0.068330 -0.092204
@@ -61,3 +61,4 @@ Bradley Efron, Trevor Hastie, Iain Johnstone and Robert Tibshirani (2004) "Least
 (https://web.stanford.edu/~hastie/Papers/LARS/LeastAngle_2002.pdf)
 
 Process finished with exit code 0
+'''
