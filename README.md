@@ -20,7 +20,7 @@
 
 [442 rows x 10 columns]
 
-#당뇨병 데이터 셋 설명
+당뇨병 데이터 셋 설명
 .. _diabetes_dataset:
 
 Diabetes dataset
